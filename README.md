@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maruf Hossain</h1>
+<div align="center"> <img src="https://github.com/marufjarvis/marufjarvis/blob/main/maruf.png"> </div>
 <h3 align="center">A passionate Software Engineer from Bangladesh. I work for a Hungary based software company, and in my free time, I love to eat & sleep.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=0e75b6&style=flat" alt="marufjarvis" /> </p>
 
