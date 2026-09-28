@@ -1,15 +1,15 @@
-# 👨‍💻 Maruf Hossain
-**AI Engineer | Fullstack Blockchain Developer | Quantum Expert | Fullstack Software Engineer**
-
-<img src="image1.png" align="right" width="250" style="border-radius:10px; margin-left: 15px;" alt="Maruf Hossain" />
-
-Welcome to my digital workspace! I specialize in bridging the gap between cutting-edge technologies like **Quantum Computing**, **Artificial Intelligence**, and **Decentralized Systems (Blockchain)**, while delivering robust **Fullstack** applications.
-
-<p align="left">
-  <a href="mailto:marufjarvis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+8801723619524"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/maruf_hossain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="image1.png" width="250" alt="Maruf Hossain" />
+  <h1>👨‍💻 Maruf Hossain</h1>
+  <p><b>AI Engineer | Fullstack Blockchain Developer | Quantum Expert | Fullstack Software Engineer</b></p>
+  <p>Welcome to my digital workspace! I specialize in bridging the gap between cutting-edge technologies like <b>Quantum Computing</b>, <b>Artificial Intelligence</b>, and <b>Decentralized Systems (Blockchain)</b>, while delivering robust <b>Fullstack</b> applications.</p>
+  
+  <p align="center">
+    <a href="mailto:marufjarvis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="tel:+8801723619524"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/maruf_hossain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
