@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack & Skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blockchain,solidity,ethereum,react,nodejs,express,mongodb,flutter,aws,docker,python,tensorflow,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,r,solidity,js,ts,html,css,react,nextjs,vue,angular,nodejs,express,nestjs,mongodb,postgres,mysql,graphql,flutter,dart,android,java,kotlin,swift,cpp,cs,go,rust,aws,azure,docker,kubernetes,linux,ubuntu,bash,git,github,vscode&perline=10" />
   </a>
 </div>
 
