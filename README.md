@@ -18,130 +18,139 @@
   </p>
 </div>
 
-<br/>
+---
 
-## 🌌 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marufjarvis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufjarvis&theme=tokyonight&hide_border=true&background=0D1117" height="192px"/>
 </div>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack & Skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blockchain,solidity,ethereum,react,nodejs,express,mongodb,flutter,aws,docker,python,tensorflow,git,github&perline=7" />
+    <img src="https://skillicons.dev/icons?i=blockchain,solidity,ethereum,react,nodejs,express,mongodb,flutter,aws,docker,python,tensorflow,git,github&perline=14" />
   </a>
 </div>
 
-<br/>
+---
 
-## 💼 Global Experience
-<table bordercolor="#06b6d4">
+## 🚀 Featured Projects (DApps, AI & Fullstack)
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| 🗳️ **VoteChain** | Quantum-resistant blockchain voting DApp | <kbd>#Blockchain</kbd> <kbd>#Quantum</kbd> <kbd>#DApp</kbd> |
+| 🏥 **SmartCare** | AI health assistant for predictive diagnostics | <kbd>#AI</kbd> <kbd>#HealthTech</kbd> |
+| 📚 **EduX App** | Feature-rich Flutter-based eLearning mobile app | <kbd>#Flutter</kbd> <kbd>#MobileApp</kbd> |
+| 📈 **CryptoInsight** | Real-time crypto tracking platform with analytics | <kbd>#Blockchain</kbd> <kbd>#DeFi</kbd> |
+| 📄 **AIResume** | Intelligent AI-based ATS resume analyzer | <kbd>#AI</kbd> <kbd>#Fullstack</kbd> |
+| 💾 **DStor** | Decentralized file storage utilizing IPFS | <kbd>#Blockchain</kbd> <kbd>#DApp</kbd> <kbd>#Web3</kbd> |
+| 🎨 **ArtChain** | Secure NFT marketplace for digital artists | <kbd>#NFT</kbd> <kbd>#Blockchain</kbd> |
+| 🏦 **DeFiVault** | Decentralized lending and borrowing platform | <kbd>#DeFi</kbd> <kbd>#Blockchain</kbd> |
+| 🆔 **GovID DAO** | Next-gen digital identity system with DAO mechanisms | <kbd>#DApp</kbd> <kbd>#Blockchain</kbd> |
+| 🧠 **NeuroDAO** | Hybrid AI and DAO-based governance system | <kbd>#AI</kbd> <kbd>#Blockchain</kbd> |
+| 🖥️ **E-Gov Admin Panel** | Comprehensive portal built for SRDL | <kbd>#Fullstack</kbd> <kbd>#WebDev</kbd> |
+| 🔐 **QuantumWallet** | Crypto wallet with quantum-safe encryption | <kbd>#Quantum</kbd> <kbd>#Blockchain</kbd> |
+
+---
+
+## 🏛️ Government & Organization Projects
+> *Leading national tech initiatives & digital transformation under the ICT Ministry of Bangladesh.*
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🇺🇸 North America</h3>
+    <td valign="top" width="50%">
       <ul>
-        <li><b>Scale AI</b> (USA)</li>
-        <li><b>RAMP</b> (San Francisco, CA)</li>
-        <li><b>Twitch</b> (Seattle, WA)</li>
-        <li><b>Asana</b> (New York City)</li>
-        <li><b>Archer</b> (San Jose, CA)</li>
-        <li><b>Blue Origin</b> (Seattle, WA)</li>
-        <li><b>Valve</b> (Bellevue, WA)</li>
-        <li><b>Anthropic</b> (USA)</li>
-        <li><b>IonQ</b> (USA Remote)</li>
-        <li><b>Webflow</b> (USA)</li>
-        <li><b>NationWide TFS LLC</b> (NY, USA)</li>
+        <li>🌐 <b>EDGE</b> (Enhancing Digital Government & Economy)</li>
+        <li>📈 <b>ASSET</b> (Strengthening Skills for Transformation)</li>
+        <li>💻 <b>SRDL</b> (Sheikh Russel Digital Lab)</li>
+        <li>🏫 <b>School of Future</b> (Sheikh Russel School of Future)</li>
+        <li>📱 <b>Cross-Platform App Dev</b> (ICT Ministry)</li>
+        <li>💡 <b>Aspire to Innovate (a2i)</b></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌍 Europe, Middle East & Asia</h3>
+    <td valign="top" width="50%">
       <ul>
-        <li><b>Peiko</b> (Tel Aviv, Israel)</li>
-        <li><b>FatFish</b> (Jerusalem, Israel)</li>
-        <li><b>Petruskevich</b> (Haifa, Israel)</li>
-        <li><b>Bles Software</b> (Gush Dan, Israel)</li>
-        <li><b>Plarium Israel</b> (Herzliya, Israel)</li>
-        <li><b>BlackBelt Technology</b> (Budapest, Hungary)</li>
-        <li><b>CyberCodex / Biz4 Solution</b> (India)</li>
-        <li><b>Beta Source</b> (UAE)</li>
-        <li><b>Softpark IT / Computer World</b> (Bangladesh)</li>
-        <li><b>Cilo Global Resource</b> (South Africa)</li>
+        <li>🎓 <b>Learning & Earning Project</b> (ICT Ministry)</li>
+        <li>👩‍💻 <b>She Power / Her Power Projects</b> (ICT Ministry)</li>
+        <li>🎮 <b>Skill Dev for Mobile Games & Apps</b> (ICT Ministry)</li>
+        <li>🏗️ <b>National ICT Infrastructure Phase II</b></li>
+        <li>🤝 <b>PTIB</b> (Inclusive Bangladesh Project)</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-## 🚀 Impactful Projects
-<details>
-  <summary><b>🏛️ National & Government Projects (Bangladesh)</b></summary>
-  <br>
-  <blockquote>
-    Led and contributed to major digital transformation projects under the ICT Ministry of Bangladesh.
-  </blockquote>
-  <ul>
-    <li>🌐 <b>EDGE</b> - Enhancing Digital Government & Economy</li>
-    <li>📈 <b>ASSET</b> - Strengthening Skills for Transformation</li>
-    <li>💻 <b>SRDL & School of Future</b> - Sheikh Russel Digital Labs</li>
-    <li>🎓 <b>Learning & Earning / Her Power</b> - Women & Youth IT Empowerment</li>
-    <li>💡 <b>Aspire to Innovate (a2i)</b> - Digital Services Integration</li>
-  </ul>
-</details>
+## 💼 Global Experience
+<div align="center">
 
-<details>
-  <summary><b>⚛️ AI, Blockchain & Quantum DApps</b></summary>
-  <br>
-  <ul>
-    <li>🗳️ <b>VoteChain</b> - Quantum-resistant blockchain voting DApp</li>
-    <li>🔐 <b>QuantumWallet</b> - Crypto wallet with quantum-safe encryption</li>
-    <li>🏥 <b>SmartCare</b> - AI health assistant</li>
-    <li>🎨 <b>ArtChain & DStor</b> - NFT marketplace & IPFS decentralized storage</li>
-    <li>🏦 <b>DeFiVault</b> - Decentralized lending platform</li>
-    <li>🧠 <b>NeuroDAO</b> - AI + DAO-based governance</li>
-  </ul>
-</details>
+| 🇺🇸 North America | 🌍 Europe, Middle East & Africa | 🌏 Asia |
+| :--- | :--- | :--- |
+| **Scale AI** | **Peiko** (Tel Aviv, Israel) | **CyberCodex** (India) |
+| **RAMP** (San Francisco) | **FatFish** (Jerusalem, Israel) | **Biz4 Solution** (India) |
+| **Twitch** (Seattle) | **Petruskevich** (Haifa, Israel) | **Beta Source** (UAE) |
+| **Asana** (New York City) | **Bles Software** (Gush Dan, Israel) | **Softpark IT** (Bangladesh) |
+| **Archer** (San Jose) | **Plarium Israel** (Herzliya, Israel) | **Computer World** (Bangladesh) |
+| **Blue Origin** (Seattle) | **BlackBelt Technology** (Budapest, Hungary) | **Digital IT Institute** (Bangladesh) |
+| **Valve** (Bellevue) | **Cilo Global Resource** (South Africa) | |
+| **Anthropic** | | |
+| **IonQ** (Remote) | | |
+| **Webflow** | | |
+| **NationWide TFS LLC** (NY) | | |
+| **Paragon** (Los Angeles) | | |
 
-<br/>
+</div>
 
-## 🎓 Education & Certifications
-<table align="center">
+---
+
+## 🎓 Education & 📜 Professional Certifications
+
+<table>
 <tr>
 <td valign="top" width="50%">
-<b>🎓 Degrees</b>
-<ul>
-<li>M.Sc in IT <i>(UoPeople, USA)</i></li>
-<li>M.Sc in Data Science & ML <i>(SUB)</i></li>
-<li>M.Sc & B.Sc in Mathematics <i>(NU)</i></li>
-</ul>
-<br/>
-<b>📊 PG Diplomas (GMU, Italy)</b>
-<ul>
-<li>Data Science</li>
-<li>IHRM</li>
-<li>Blockchain Technology</li>
-</ul>
+
+### 🎓 Degrees
+- **M.Sc in IT** ➔ *University of the People (UoPeople), USA*
+- **M.Sc in Data Science & Machine Learning** ➔ *State University of Bangladesh (SUB)*
+- **M.Sc in Mathematics** ➔ *National University, Bangladesh*
+- **B.Sc in Mathematics** ➔ *National University, Bangladesh*
+
+### 📊 Post Graduate Diplomas *(Guglielmo Marconi University, Italy)*
+- **PGD in Data Science**
+- **PGD in IHRM**
+- **PGD in Blockchain Technology**
+
 </td>
 <td valign="top" width="50%">
-<b>🏅 Key Certifications</b>
-<ul>
-<li>Certified IBM Qiskit V2.0x Developer</li>
-<li>Blockchain Engineer <i>(Blockchain Council)</i></li>
-<li>Quantum Expert <i>(Blockchain Council)</i></li>
-<li>MERN & Flutter Developer <i>(Ostad)</i></li>
-<li>Associate Android Developer <i>(Google)</i></li>
-<li>Master Trainer <i>(NSDA, SEIP)</i></li>
-</ul>
+
+### 🏅 Certifications
+- `Certified IBM Qiskit V2.0x Developer`
+- `Certified Blockchain Engineer` *(Blockchain Council)*
+- `Certified Quantum Expert` *(Blockchain Council)*
+- `Certified Hyperledger Developer™` *(Blockchain Council)*
+- `Certified Ethereum Developer™` *(Blockchain Council)*
+- `Certified Polygon Developer™` *(Blockchain Council)*
+- `Certified Solidity Developer®` *(Blockchain Council)*
+- `Certified MERN Developer` *(Ostad)*
+- `Certified Flutter Developer` *(Ostad)*
+- `Certified Web App Developer` *(Geta University, India)*
+- `Certified Web App Developer` *(LICT Project, ICT Ministry)*
+- `Certified Associate Android Developer` *(Google)*
+- `Master Trainer` *(NSDA, SEIP, PKSF, CBT&A, TVET)*
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
-  <p><img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=06b6d4&style=flat" alt="marufjarvis" /></p>
+  <p><em>Maruf Hossain is a multi-disciplinary software engineer specializing in Blockchain, AI, Quantum Computing, and Fullstack technologies. He has worked with international companies and led several national tech projects in Bangladesh.</em></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=06b6d4&style=flat" alt="marufjarvis" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
