@@ -15,7 +15,7 @@ Welcome to my digital workspace! I specialize in bridging the gap between cuttin
 
 ## ⚡ Technical Arsenal
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,r,solidity,js,ts,html,css,react,nextjs,vue,angular,nodejs,express,nestjs,mongodb,postgres,mysql,graphql,flutter,dart,android,java,kotlin,swift,cpp,cs,go,rust,aws,azure,docker,kubernetes,linux,ubuntu,bash,git,github,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,r,solidity,js,ts,html,css,react,nextjs,vue,angular,nodejs,express,nestjs,mongodb,postgres,mysql,graphql,flutter,dart,androidstudio,java,kotlin,swift,cpp,cs,go,rust,aws,azure,docker,kubernetes,linux,ubuntu,bash,git,github,vscode&perline=13" />
 </a>
 
 ---
