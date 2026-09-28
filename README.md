@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://i.postimg.cc/TYj0vC4T/Maruf-Formal-Picture.png" width="150" height="150" alt="Maruf Hossain" style="border-radius: 50%; border: 4px solid #06b6d4;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Maruf%20Hossain&fontSize=50&fontAlignY=35&desc=AI%20%7C%20Quantum%20%7C%20Blockchain%20%7C%20Fullstack&descAlignY=55&descAlign=50" width="100%"/>
   
-  <h1>Hi there! 👋 I'm Maruf Hossain</h1>
+  <a href="https://github.com/marufjarvis">
+    <img src="https://i.postimg.cc/TYj0vC4T/Maruf-Formal-Picture.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #8B5CF6; margin-top: -80px; position: relative; z-index: 10; background: white;" alt="Maruf Hossain">
+  </a>
+  
+  <br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Engineer;Fullstack+Blockchain+Developer;Quantum+Expert;Fullstack+Software+Engineer" alt="Typing SVG" />
   
@@ -14,112 +18,130 @@
   </p>
 </div>
 
----
+<br/>
 
-## 🧠 Core Expertise
+## 🌌 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marufjarvis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufjarvis&theme=tokyonight&hide_border=true&background=0D1117" height="192px"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Blockchain-f59e0b?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_/_ML-06b6d4?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantum_Algorithms-8b5cf6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN_Stack-10b981?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-FCA121?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-</p>
+<br/>
 
----
+## 🛠️ Tech Stack & Skills
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blockchain,solidity,ethereum,react,nodejs,express,mongodb,flutter,aws,docker,python,tensorflow,git,github&perline=7" />
+  </a>
+</div>
+
+<br/>
 
 ## 💼 Global Experience
+<table bordercolor="#06b6d4">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇺🇸 North America</h3>
+      <ul>
+        <li><b>Scale AI</b> (USA)</li>
+        <li><b>RAMP</b> (San Francisco, CA)</li>
+        <li><b>Twitch</b> (Seattle, WA)</li>
+        <li><b>Asana</b> (New York City)</li>
+        <li><b>Archer</b> (San Jose, CA)</li>
+        <li><b>Blue Origin</b> (Seattle, WA)</li>
+        <li><b>Valve</b> (Bellevue, WA)</li>
+        <li><b>Anthropic</b> (USA)</li>
+        <li><b>IonQ</b> (USA Remote)</li>
+        <li><b>Webflow</b> (USA)</li>
+        <li><b>NationWide TFS LLC</b> (NY, USA)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Europe, Middle East & Asia</h3>
+      <ul>
+        <li><b>Peiko</b> (Tel Aviv, Israel)</li>
+        <li><b>FatFish</b> (Jerusalem, Israel)</li>
+        <li><b>Petruskevich</b> (Haifa, Israel)</li>
+        <li><b>Bles Software</b> (Gush Dan, Israel)</li>
+        <li><b>Plarium Israel</b> (Herzliya, Israel)</li>
+        <li><b>BlackBelt Technology</b> (Budapest, Hungary)</li>
+        <li><b>CyberCodex / Biz4 Solution</b> (India)</li>
+        <li><b>Beta Source</b> (UAE)</li>
+        <li><b>Softpark IT / Computer World</b> (Bangladesh)</li>
+        <li><b>Cilo Global Resource</b> (South Africa)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-| Company | Location | Company | Location |
-| :--- | :--- | :--- | :--- |
-| **Scale AI** | USA 🇺🇸 | **Arventure Technology** | USA 🇺🇸 |
-| **RAMP** | San Francisco, USA 🇺🇸 | **BlackBelt Technology** | Budapest, Hungary 🇭🇺 |
-| **Peiko** | Tel Aviv-Yafo, Israel 🇮🇱 | **NationWide TFS LLC** | Jericho, NY, USA 🇺🇸 |
-| **FatFish** | Jerusalem, Israel 🇮🇱 | **Plarium Israel** | Herzliya, Israel 🇮🇱 |
-| **Petruskevich** | Haifa, Israel 🇮🇱 | **Webflow** | USA 🇺🇸 |
-| **Bles Software** | Gush Dan, Israel 🇮🇱 | **Paragon** | Los Angeles, USA 🇺🇸 |
-| **Twitch** | Seattle, WA, USA 🇺🇸 | **Cilo Global Resource** | South Africa 🇿🇦 |
-| **Asana** | New York City, USA 🇺🇸 | **CyberCodex** | India 🇮🇳 |
-| **Archer** | San Jose, CA, USA 🇺🇸 | **Beta Source** | UAE 🇦🇪 |
-| **Blue Origin** | Seattle, WA, USA 🇺🇸 | **Biz4 Solution** | India 🇮🇳 |
-| **Valve** | Bellevue, WA, USA 🇺🇸 | **Softpark IT** | Bangladesh 🇧🇩 |
-| **Anthropic** | USA 🇺🇸 | **Computer World** | Bangladesh 🇧🇩 |
-| **IonQ** | USA (Remote) 🇺🇸 | **Digital IT Institute** | Bangladesh 🇧🇩 |
+<br/>
 
----
+## 🚀 Impactful Projects
+<details>
+  <summary><b>🏛️ National & Government Projects (Bangladesh)</b></summary>
+  <br>
+  <blockquote>
+    Led and contributed to major digital transformation projects under the ICT Ministry of Bangladesh.
+  </blockquote>
+  <ul>
+    <li>🌐 <b>EDGE</b> - Enhancing Digital Government & Economy</li>
+    <li>📈 <b>ASSET</b> - Strengthening Skills for Transformation</li>
+    <li>💻 <b>SRDL & School of Future</b> - Sheikh Russel Digital Labs</li>
+    <li>🎓 <b>Learning & Earning / Her Power</b> - Women & Youth IT Empowerment</li>
+    <li>💡 <b>Aspire to Innovate (a2i)</b> - Digital Services Integration</li>
+  </ul>
+</details>
 
-## 🏛️ Government & Organization Projects
+<details>
+  <summary><b>⚛️ AI, Blockchain & Quantum DApps</b></summary>
+  <br>
+  <ul>
+    <li>🗳️ <b>VoteChain</b> - Quantum-resistant blockchain voting DApp</li>
+    <li>🔐 <b>QuantumWallet</b> - Crypto wallet with quantum-safe encryption</li>
+    <li>🏥 <b>SmartCare</b> - AI health assistant</li>
+    <li>🎨 <b>ArtChain & DStor</b> - NFT marketplace & IPFS decentralized storage</li>
+    <li>🏦 <b>DeFiVault</b> - Decentralized lending platform</li>
+    <li>🧠 <b>NeuroDAO</b> - AI + DAO-based governance</li>
+  </ul>
+</details>
 
-- 🌐 **EDGE** - Enhancing Digital Government & Economy
-- 📈 **ASSET** - Strengthening Skills for Transformation
-- 💻 **SRDL** - Sheikh Russel Digital Lab
-- 🏫 **School of Future** - Sheikh Russel School of Future
-- 📱 **Cross-Platform App Dev** - ICT Ministry
-- 🎓 **Learning & Earning Project** - ICT Ministry
-- 👩‍💻 **She Power / Her Power Projects** - ICT Ministry
-- 🎮 **Skill Development for Mobile Games & Apps** - ICT Ministry
-- 💡 **Aspire to Innovate (a2i)**
-- 🏗️ **National ICT Infrastructure Phase II**
-- 🤝 **PTIB** - Inclusive Bangladesh Project
+<br/>
 
----
+## 🎓 Education & Certifications
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+<b>🎓 Degrees</b>
+<ul>
+<li>M.Sc in IT <i>(UoPeople, USA)</i></li>
+<li>M.Sc in Data Science & ML <i>(SUB)</i></li>
+<li>M.Sc & B.Sc in Mathematics <i>(NU)</i></li>
+</ul>
+<br/>
+<b>📊 PG Diplomas (GMU, Italy)</b>
+<ul>
+<li>Data Science</li>
+<li>IHRM</li>
+<li>Blockchain Technology</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<b>🏅 Key Certifications</b>
+<ul>
+<li>Certified IBM Qiskit V2.0x Developer</li>
+<li>Blockchain Engineer <i>(Blockchain Council)</i></li>
+<li>Quantum Expert <i>(Blockchain Council)</i></li>
+<li>MERN & Flutter Developer <i>(Ostad)</i></li>
+<li>Associate Android Developer <i>(Google)</i></li>
+<li>Master Trainer <i>(NSDA, SEIP)</i></li>
+</ul>
+</td>
+</tr>
+</table>
 
-## 🚀 Featured Projects
-
-- 🗳️ **VoteChain** - Quantum-resistant blockchain voting DApp `#Blockchain` `#Quantum` `#DApp`
-- 🏥 **SmartCare** - AI health assistant `#AI` `#HealthTech`
-- 📚 **EduX App** - Flutter-based eLearning app `#Flutter` `#MobileApp`
-- 📈 **CryptoInsight** - Real-time crypto tracker `#Blockchain` `#DeFi`
-- 📄 **AIResume** - AI-based resume analyzer `#AI` `#Fullstack`
-- 💾 **DStor** - Decentralized file storage with IPFS `#Blockchain` `#DApp` `#Web3`
-- 🎨 **ArtChain** - NFT marketplace for digital artists `#NFT` `#Blockchain`
-- 🏦 **DeFiVault** - Decentralized lending platform `#DeFi` `#Blockchain`
-- 🆔 **GovID DAO** - Digital identity system `#DApp` `#Blockchain`
-- 🧠 **NeuroDAO** - AI + DAO-based governance `#AI` `#Blockchain`
-- 🖥️ **E-Gov Admin Panel** - For SRDL `#Fullstack` `#WebDev`
-- 🔐 **QuantumWallet** - Crypto wallet with quantum-safe encryption `#Quantum` `#Blockchain`
-
----
-
-## 🎓 Education & Diplomas
-
-### Degrees
-- 🎓 **M.Sc in IT**, University of the People (UoPeople), USA
-- 🎓 **M.Sc in Data Science & Machine Learning**, State University of Bangladesh (SUB)
-- 🎓 **M.Sc in Mathematics**, National University, Bangladesh
-- 🎓 **B.Sc in Mathematics**, National University, Bangladesh
-
-### Post Graduate Diplomas (Guglielmo Marconi University, Italy)
-- 📊 **PGD in Data Science**
-- 👥 **PGD in IHRM**
-- 🔗 **PGD in Blockchain Technology**
-
----
-
-## 📜 Professional Certifications
-
-<p align="center">
-  <code>Certified IBM Qiskit V2.0x Developer</code> •
-  <code>Blockchain Engineer (Blockchain Council)</code> •
-  <code>Quantum Expert (Blockchain Council)</code> •
-  <code>Hyperledger Developer™</code> •
-  <code>Ethereum Developer™</code> •
-  <code>Polygon Developer™</code> •
-  <code>Solidity Developer®</code> •
-  <code>MERN Developer (Ostad)</code> •
-  <code>Flutter Developer (Ostad)</code> •
-  <code>Web App Developer (Geta University)</code> •
-  <code>Web App Developer (LICT Project)</code> •
-  <code>Associate Android Developer (Google)</code> •
-  <code>Master Trainer (NSDA, SEIP, PKSF, CBT&A, TVET)</code>
-</p>
-
----
+<br/>
 
 <div align="center">
-  <p><em>Maruf Hossain is a multi-disciplinary software engineer specializing in Blockchain, AI, Quantum Computing, and Fullstack technologies. He has worked with international companies and led several national tech projects in Bangladesh.</em></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=06b6d4&style=flat" alt="marufjarvis" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+  <p><img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=06b6d4&style=flat" alt="marufjarvis" /></p>
 </div>
