@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Maruf%20Hossain&fontSize=50&fontAlignY=35&desc=AI%20%7C%20Quantum%20%7C%20Blockchain%20%7C%20Fullstack&descAlignY=55&descAlign=50" width="100%"/>
   
   <a href="https://github.com/marufjarvis">
-    <img src="https://i.postimg.cc/TYj0vC4T/Maruf-Formal-Picture.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #8B5CF6; margin-top: -80px; position: relative; z-index: 10; background: white;" alt="Maruf Hossain">
+    <img src="maruf.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #8B5CF6; margin-top: -80px; position: relative; z-index: 10; background: white;" alt="Maruf Hossain">
   </a>
   
   <br><br>
