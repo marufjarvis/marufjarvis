@@ -86,9 +86,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufjarvis&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufjarvis&theme=react&hide_border=true&background=0D1117" height="160px"/>
-  
-  <br>
+
   <img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=06b6d4&style=flat" alt="marufjarvis" />
 </div>
