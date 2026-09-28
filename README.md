@@ -10,6 +10,9 @@
     <a href="tel:+8801723619524"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://linkedin.com/in/maruf_hossain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=06b6d4&style=flat" alt="marufjarvis" />
+  </p>
 </div>
 
 ---
@@ -83,9 +86,3 @@
 - `Certified Associate Android Developer` *(Google)*
 - `Master Trainer` *(NSDA, SEIP, PKSF, CBT&A, TVET)*
 
----
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=marufjarvis&label=Profile%20views&color=06b6d4&style=flat" alt="marufjarvis" />
-</div>
