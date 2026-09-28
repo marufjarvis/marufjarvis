@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="image1.png" width="250" alt="Maruf Hossain" />
+  <img src="Maruf1.png" width="100%" alt="Header Image" />
+  <br><br>
   <h1>👨‍💻 Maruf Hossain</h1>
   <p><b>AI Engineer | Fullstack Blockchain Developer | Quantum Expert | Fullstack Software Engineer</b></p>
   <p>Welcome to my digital workspace! I specialize in bridging the gap between cutting-edge technologies like <b>Quantum Computing</b>, <b>Artificial Intelligence</b>, and <b>Decentralized Systems (Blockchain)</b>, while delivering robust <b>Fullstack</b> applications.</p>
